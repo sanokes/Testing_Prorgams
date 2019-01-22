@@ -1,0 +1,12 @@
+D:\Other\doc\Stilgman_C#\Contact\Contacts\bin\Debug\Contacts.exe.config
+D:\Other\doc\Stilgman_C#\Contact\Contacts\bin\Debug\Contacts.exe
+D:\Other\doc\Stilgman_C#\Contact\Contacts\bin\Debug\Contacts.pdb
+D:\Other\doc\Stilgman_C#\Contact\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+D:\Other\doc\Stilgman_C#\Contact\Contacts\obj\Debug\Contacts.Form1.resources
+D:\Other\doc\Stilgman_C#\Contact\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+D:\Other\doc\Stilgman_C#\Contact\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+D:\Other\doc\Stilgman_C#\Contact\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+D:\Other\doc\Stilgman_C#\Contact\Contacts\obj\Debug\Contacts.exe
+D:\Other\doc\Stilgman_C#\Contact\Contacts\obj\Debug\Contacts.pdb
+D:\Other\doc\Stilgman_C#\Contact\Contacts\bin\Debug\ContactDB.mdf
+D:\Other\doc\Stilgman_C#\Contact\Contacts\bin\Debug\ContactDB_log.ldf
